@@ -48,13 +48,16 @@ Best weight: https://drive.google.com/file/d/1vlA83dcw-gh59SyuqD6_UpmDL0K-FcW_/v
 Notebook :Demo
 goal:output a violence detection result on your video
 
+
 modify the video_input change the following text into your video path
 
 video_input = '/content/drive/MyDrive/video/video1.mp4'
 
+
 modify the video_input change the following text into your target path
 
 video_output = '/content/drive/MyDrive/video/output1.mp4'
+
 
 run all cell and you will get the result video in your target path
 
