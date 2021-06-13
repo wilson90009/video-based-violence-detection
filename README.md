@@ -46,6 +46,7 @@ Best weight: https://drive.google.com/file/d/1vlA83dcw-gh59SyuqD6_UpmDL0K-FcW_/v
 
 ## Demo
 Notebook :Demo
+
 goal:output a violence detection result on your video
 
 
@@ -61,8 +62,17 @@ video_output = '/content/drive/MyDrive/video/output1.mp4'
 
 run all cell and you will get the result video in your target path
 
-##
+## Validation
+Notebook: Validation
 
+goal:check model accuary by using validation data
 
+unzip the validation data
 
+unzip val.zip
 
+modify the val_path change the following text into your val data path
+
+val_path = '/content/val'
+
+run all cell and you will see the val accuary
